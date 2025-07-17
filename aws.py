@@ -1,5 +1,3 @@
-# 레이블 감지 코드!
-
 import boto3
 
 def detect_labels_local_file(photo):
